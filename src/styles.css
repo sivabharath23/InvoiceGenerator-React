@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.main-content {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+body {
+  background-color: #f8f9fa;
+}
